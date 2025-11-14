@@ -1,0 +1,102 @@
+/* ======= ESTILOS GERAIS ======= */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f8f9fa;
+}
+
+/* ======= HEADER ======= */
+header {
+  background-color: #ffeb3b;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+  color: #333;
+}
+
+nav {
+  display: flex;
+  gap: 15px;
+}
+
+nav a {
+  text-decoration: none;
+  background-color: #fff59d;
+  color: #333;
+  padding: 8px 15px;
+  border-radius: 10px;
+  font-weight: bold;
+  transition: 0.2s;
+  border: 2px solid transparent;
+}
+
+nav a:hover {
+  background-color: #fff176;
+  border: 2px solid #fbc02d;
+}
+
+/* ======= CONTAINER PRINCIPAL ======= */
+.container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+/* ======= INPUT DE BUSCA ======= */
+input[type="text"] {
+  padding: 10px;
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+
+/* ======= CARDS DE POSTS ======= */
+.post-card {
+  background-color: #fff9c4;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+}
+
+.post-card img {
+  width: 100%;
+  border-radius: 10px;
+  max-height: 350px;
+  object-fit: cover;
+}
+
+.post-card h2 {
+  color: #333;
+}
+
+.post-card p {
+  color: #555;
+}
+
+.post-card small {
+  color: #777;
+}
+
+/* ======= BOTÕES ======= */
+button {
+  background-color: #ffeb3b;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+button:hover {
+  background-color: #fdd835;
+}

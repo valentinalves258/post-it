@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "titulo": "canada",
+      "conteudo": "hhhhhhh",
+      "imagem": "blob:http://localhost:3002/df9ba57e-c173-4f88-9ec6-79f893cb486f",
+      "infoLugar": {
+        "titulo": "Canada",
+        "descricao": "Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the second-largest country by total area, with the longest coastline of any country. Its border with the United States is the longest international land border. The country is characterized by a wide range of both meteorologic and geological regions. With a population of over 41 million, it has widely varying population densities, with the majority residing in its urban areas and large areas being sparsely populated. Canada's capital is Ottawa and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/330px-Flag_of_Canada_%28Pantone%29.svg.png"
+      },
+      "data": "14/11/2025",
+      "id": 1
+    },
+    {
+      "titulo": "brasil",
+      "conteudo": "",
+      "imagem": null,
+      "infoLugar": {
+        "titulo": "Brazil",
+        "descricao": "Brazil, officially the Federative Republic of Brazil, is the largest country in South America. It is also the world's fifth-largest country by area and the seventh-largest by population, with over 213 million people. The country is a federation composed of 26 states and a Federal District, which hosts the capital, Brasília. Its most populous city is São Paulo, followed by Rio de Janeiro. Brazil has the most Portuguese speakers in the world and is the only country in the Americas where Portuguese is an official language.",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/330px-Flag_of_Brazil.svg.png"
+      },
+      "data": "14/11/2025",
+      "id": 2
+    }
+  ]
+}
